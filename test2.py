@@ -9,4 +9,6 @@ Created on Mon Dec 14 00:51:27 2020
 
 print ("test 1")
 """learn branch"""
-print ("Creating a new branch is quick & simple.")
+
+print ("Creating a new branch is quick and simple.")
+
